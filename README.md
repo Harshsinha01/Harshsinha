@@ -1,4 +1,5 @@
-[![MasterHead](https://img.freepik.com/free-vector/flat-design-vector-man-programmer-working_23-2148269034.jpg?ga=GA1.1.675080504.1726925981&semt=ais_hybrid)](https://harshsinha.io)
+[![MasterHead]](https://harshsinha.io)
+<img align ="centre" alt="" width = 800 src =" https://img.freepik.com/free-vector/flat-design-vector-man-programmer-working_23-2148269034.jpg?ga=GA1.1.675080504.1726925981&semt=ais_hybrid"/>
 <h1 align="center">Hi 👋, I'm Harsh Sinha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
